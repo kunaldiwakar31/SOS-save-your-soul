@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SAVE YOUR SOUL</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="button">Button</string>
+    <string name="contact_list">CONTACT LIST</string>
+    <string name="add_to_emergency_contact_list">add to emergency contact list</string>
+    <string name="notification_title">SAVE YOUR SOUL</string>
+    <string name="notification_message">App is running in background</string>
+    <string name="ticker_text">Ticker</string>
+</resources>
